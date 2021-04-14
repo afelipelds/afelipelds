@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @afelipelds
+- 👀 I’m interested in Javascript Web Apps
+- 🌱 I’m currently learning React
+- 📫 How to reach me? send me an email
